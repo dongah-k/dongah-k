@@ -1,16 +1,32 @@
-## Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**dongah-k/dongah-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+정보통신공학을 전공하고 있는 학생입니다.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Yeungnam University
+- 📚 Information and Communication Engineering
+- 💡 Interested in IoT, Embedded Systems, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- C
+- Python
+- Arduino
+- ESP32
+- HTML / CSS / JavaScript
+- Git & GitHub
+
+## Projects
+
+### Smart Tumbler System
+수위 센서를 활용하여 사용자의 수분 섭취량을 측정하고 웹/앱으로 피드백을 제공하는 시스템
+
+### Digital Logic Circuit Design
+BCD 디코더 및 디지털 논리회로 설계 프로젝트
+
+### Engineering Design Projects
+센서 및 마이크로컨트롤러 기반 임베디드 시스템 개발
+
+## Currently Learning
+- Embedded Systems
+- IoT Development
+- Web Application Development
