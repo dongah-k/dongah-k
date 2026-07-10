@@ -16,7 +16,6 @@
 무료 더치페이 계산 웹서비스
 
 ✔ 최소 송금 경로 계산
-✔ 카카오톡 링크 미리보기(Open Graph)
 ✔ Google Analytics
 ✔ Google Search Console
 ✔ Naver Search Advisor
